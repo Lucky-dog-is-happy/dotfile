@@ -1,0 +1,15 @@
+2025/02/26-20:40:58.393 4 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/02/26-20:40:58.393 4 Recovering log #13
+2025/02/26-20:40:58.394 4 Reusing old log /home/lucky/.config/google-chrome/Default/Session Storage/000013.log 
+2025/02/26-21:23:08.169 4 Level-0 table #17: started
+2025/02/26-21:23:08.263 4 Level-0 table #17: 17475 bytes OK
+2025/02/26-21:23:08.306 4 Delete type=0 #13
+2025/02/26-21:23:08.307 4 Compacting 4@0 + 1@1 files
+2025/02/26-21:23:08.375 4 Generated table #18@0: 375 keys, 12530 bytes
+2025/02/26-21:23:08.375 4 Compacted 4@0 + 1@1 files => 12530 bytes
+2025/02/26-21:23:08.417 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/26-21:23:08.418 4 Delete type=2 #17
+2025/02/26-21:23:08.418 4 Delete type=2 #9
+2025/02/26-21:23:08.419 4 Delete type=2 #11
+2025/02/26-21:23:08.419 4 Delete type=2 #14
+2025/02/26-21:23:08.419 4 Delete type=2 #7

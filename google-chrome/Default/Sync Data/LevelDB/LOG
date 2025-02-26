@@ -1,0 +1,6 @@
+2025/02/26-20:40:58.352 1619 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2025/02/26-20:40:58.352 1619 Recovering log #6
+2025/02/26-20:40:58.353 1619 Reusing old log /home/lucky/.config/google-chrome/Default/Sync Data/LevelDB/000006.log 
+2025/02/26-20:49:17.681 161a Level-0 table #10: started
+2025/02/26-20:49:17.827 161a Level-0 table #10: 101700 bytes OK
+2025/02/26-20:49:17.996 161a Delete type=0 #6

@@ -1,0 +1,9 @@
+configuration {
+  modi: "drun,window,ssh";  // 启用模式：应用、窗口、SSH
+  show-icons: true;          // 显示图标
+  icon-theme: "Adwaita";     // 图标主题（需已安装）
+  font: "WenQuanYi Micro Hei 20";      // 字体设置
+  location: 0;               // 位置：0=居中，1=左上角等
+  width: 30%;                // 宽度占屏幕 30%
+  lines: 10;                 // 显示行数
+}

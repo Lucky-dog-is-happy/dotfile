@@ -1,0 +1,92 @@
+{
+   "checksum": "58bcbadd4023a0790f5c4a9c0fc7091c",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13385000879638743",
+            "date_last_used": "13385032928768576",
+            "guid": "9ad6158a-d6bf-4cfd-b75f-30329091eca0",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "使用 Vim 搭建 C/C++ 开发环境 - 不告诉你我是谁 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/kongj/p/14391151.html"
+         }, {
+            "date_added": "13385034066816114",
+            "date_last_used": "0",
+            "guid": "4f3aa37f-b03b-4580-bf5e-135e46fcf441",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - amix/vimrc: The ultimate Vim configuration (vimrc)",
+            "type": "url",
+            "url": "https://github.com/amix/vimrc"
+         }, {
+            "date_added": "13385034070366056",
+            "date_last_used": "0",
+            "guid": "84173a0a-1a23-4764-ad02-a9d766f7e703",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vimrc 配置指南 - 如何使用映射、Vimscript、状态行等自定义 Vim 代码编辑器 --- Vimrc Configuration Guide - How to Customize Your Vim Code Editor with Mappings, Vimscript, Status Line, and More",
+            "type": "url",
+            "url": "https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/"
+         }, {
+            "date_added": "13385034075222121",
+            "date_last_used": "0",
+            "guid": "7e4ecc6f-014c-427e-8c61-b5bb8615d446",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - junegunn/vim-plug: :hibiscus: Minimalist Vim Plugin Manager",
+            "type": "url",
+            "url": "https://github.com/junegunn/vim-plug"
+         }, {
+            "date_added": "13385034081558022",
+            "date_last_used": "0",
+            "guid": "a741d7c5-f3d3-4726-9b7c-6ed407ff81a8",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - akrawchyk/awesome-vim: The Vim plugin shortlist",
+            "type": "url",
+            "url": "https://github.com/akrawchyk/awesome-vim"
+         } ],
+         "date_added": "13384918890429661",
+         "date_last_used": "0",
+         "date_modified": "13385034081558022",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13384918890429662",
+         "date_last_used": "0",
+         "date_modified": "13385000879638743",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13384918890429663",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CmEKQQiIgQISOyAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCWpusFMKLwYAEWpusFMKLwYAKXgSslMKLwYAEgAqGFNOcmZldk9pY3lMUlIyNmYvdk9TOFE9PUgDEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad29xOHV3WXdyTlY5alZnMForb1ZMRll2VUFpbFJ5WHE4VmlsMUtFaFdoYjZyd2FINVdjek9yVVo4UjJ2dDROOWx4dDNsOHR1T3JsRkE0MVdueldWZ1NBUmhMVHc9PRgAIAAoADCpj8jU99iLAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEusBCAUS5gEKHG5ZZjkyY0pZU0JqSzV2SUtNRUZramMrK2k2bz0SZlo6QURxdEFad1dyQkZ1VVZvcXJreDEzbWFVZll0QVZRZXhxc2locjVoUC90dk1ZY0pWR0czQ3hsOTE2cUVxS0pJM0Ryc1lORkx0WWR3TkI4UUUvdER3Nm80VmlzRytHcXo0K1E9PRgAIAMoAzCh/rqQlt+LAziXvIr80zJAnuKK/NMyShxNWlpicGFBVmVSd2tIemY0N3d2L2FYVS9NdW89Wh4iHHJER2VUemVUVUhHR3NxdzdZV3hJdkRHN21ocz1lToblqRLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlZaEdTd3daZnZGSkh1WUVaTTljV3N1WVF1YWxodDlHeXhhYm0wOVdXQjgrL0NVZEljVWQ0Uk1qTk5vMWhuQjgvQmN5YmFrakxnMjkrdXRCZlhsUmtKanVNZkh3PT0YACAAKAAwqY/I1PfYiwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLsAQgHEucBChxqTy9hR3F5UFptSUJaQ2sxOHlwc0NvYkFjL2M9EmZaOkFEcXRBWndXckJGdVVWb3Fya3gxM21hVWZZdEE3ajkwVXVVaWNHUE1CUXlKOEN1T1ozb1JmeUV4TUhMS0YwSmhPd3hrVStFR3Byalc0NHBkbTNoSU8wczY3UTljaDB5M2p3PT0YACACKAIws/uX35HgiwM4gIf0i9QyQIOH9IvUMkocc2FZUDVJYnVESHlkSzA0ZnJxa0RIdmd3Q3hVPVofIh25RWswQlZ1bjhXa1poL29kd1FSbmVyeEdzV2EwPWUVUPmJEuwBCAkS5wEKHE5SMnJBdTRIMEg4TktRbGxxTVMwWmxMbHpvOD0SZlo6QURxdEFad1dyQkZ1VVZvcXJreDEzbWFVZll0QTE3Z0grRkpRWklVdmxhWGJHVFlwcUVDN2pVK1dlc1hQZ2J6akpDSHdoR2NtcEFqN2JVakk3SU1jQ0d1QWt4Z0phbXRSYVE9PRgAIAIoAjD3kfzikeCLAzjWyPSL1DJA2cj0i9QyShxhY1ZDVllZV1pjVkQ2VHE4TXAxWVdyOHdONkU9Wh8iHe5BS1ZKZnV0Z20raFVpejdyZU9vRDRORjhmVzg9ZRVQ+YkSqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4OS9aT2xGaEhIMWxob2swNDIxQmp3OEozMWJKSmh6SHlERE9hY05abXpvYmxoS0F4TW9tUjNLem1yRWFpaUptR0MybkJqGAAgACgAMKmPyNT32IsDOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEICBLnAQocYXdWQU5nRGR5Ni90U1dYZzhxMmdJdkNQcE84PRJmWjpBRHF0QVp3V3JCRnVVVm9xcmt4MTNtYVVmWXRBNk91dlJXa1p1VS9wYWZTVFRXc28zOFNqSjIzQVlVREVIR2JHUU9oNExsbnFLeG9CM1JYaGJvTDJQYnRMcWpSc093VGIyUT09GAAgAigCMLna0+CR4IsDON6i9IvUMkDiovSL1DJKHGlnM0hDNEp1emV5UlRZanN4NFh1bkVXaXdkST1aHyId3FJmL2N4aituRk1zZ0JwVlJLQVlab0x3R1NmRT1l5SCxXhLsAQgKEucBChxSbER6b1kvek5KK21MdVkzcTgrWEhqZE9GS0E9EmZaOkFEcXRBWndXckJGdVVWb3Fya3gxM21hVWZZdEF2UHRlenhoNFBrY25XNHF6NVRnNnRobWxCa1JDd0pNNVYwNzBWNFozRFNRaFJ0NHlONVR3emp1MDlobitMcWUwRnpnRFNRPT0YACACKAIwkPT+5ZHgiwM4lvr0i9QyQJn69IvUMkocTHFHdUVEcjh1RncxVDkzbzhWYVZDV0RHK2RvPVofIh33Rzh5cnJJWVJGRmpoQkxsZU9KWmphNFV2bGJzPWUVUPmJMAE4AA==",
+   "version": 1
+}
