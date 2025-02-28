@@ -1,9 +1,18 @@
-2025/02/26-20:21:51.788 4 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/26-20:21:51.791 4 Recovering log #21
-2025/02/26-20:21:51.791 4 Reusing old log /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/000021.log 
-2025/02/26-20:25:30.585 4 Level-0 table #26: started
-2025/02/26-20:25:30.684 4 Level-0 table #26: 26451 bytes OK
-2025/02/26-20:25:30.965 4 Delete type=0 #21
-2025/02/26-20:27:25.163 5 Level-0 table #28: started
-2025/02/26-20:27:25.258 5 Level-0 table #28: 20976 bytes OK
-2025/02/26-20:27:25.315 5 Delete type=0 #25
+2025/02/28-06:24:15.940 4 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/02/28-06:24:15.949 4 Recovering log #39
+2025/02/28-06:24:16.512 4 Reusing old log /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/000039.log 
+2025/02/28-06:27:29.809 4 Level-0 table #43: started
+2025/02/28-06:27:29.953 4 Level-0 table #43: 44856 bytes OK
+2025/02/28-06:27:30.000 4 Delete type=0 #39
+2025/02/28-06:27:30.001 4 Compacting 4@0 + 1@1 files
+2025/02/28-06:27:30.065 4 Generated table #44@0: 220 keys, 96681 bytes
+2025/02/28-06:27:30.065 4 Compacted 4@0 + 1@1 files => 96681 bytes
+2025/02/28-06:27:30.110 4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/28-06:27:30.112 4 Delete type=2 #38
+2025/02/28-06:27:30.112 4 Delete type=2 #36
+2025/02/28-06:27:30.112 4 Delete type=2 #34
+2025/02/28-06:27:30.112 4 Delete type=2 #40
+2025/02/28-06:27:30.112 4 Delete type=2 #43
+2025/02/28-07:39:29.049 4 Level-0 table #46: started
+2025/02/28-07:39:29.105 4 Level-0 table #46: 36166 bytes OK
+2025/02/28-07:39:29.157 4 Delete type=0 #42

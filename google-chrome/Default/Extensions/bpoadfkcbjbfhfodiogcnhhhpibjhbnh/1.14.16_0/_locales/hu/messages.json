@@ -1,0 +1,107 @@
+{
+   "PdfProFile": {
+      "message": "AI-vezérelt PDF Pro fordítás"
+   },
+   "brandDescriptionForSafari": {
+      "message": "Ingyenes weboldal fordítás, PDF & Epub eBook fordítás, Videó felirat fordítása kétnyelvűre"
+   },
+   "brandName": {
+      "message": "Immersive Translate - Web és PDF fordítás"
+   },
+   "openAboutPage": {
+      "message": "Rólunk / Visszajelzés / Támogató"
+   },
+   "openEbookBuilder": {
+      "message": "Kétnyelvű EPUB e-könyvek létrehozása"
+   },
+   "openEbookViewer": {
+      "message": "Helyi e-könyvek olvasása"
+   },
+   "openOptionsPage": {
+      "message": "Beállítások oldal megnyitása"
+   },
+   "shareToDraft": {
+      "message": "Kétnyelvű oldal megosztása"
+   },
+   "shortBrandName": {
+      "message": "Immersive fordítás"
+   },
+   "textTranslate": {
+      "message": "Szövegfordítás"
+   },
+   "toggleMouseHoverTranslateDirectly": {
+      "message": "Ideiglenesen engedélyezze vagy tiltsa le a közvetlen fordítást az egérrel az oldalon történő lebegtetéssel."
+   },
+   "toggleOnlyTransation": {
+      "message": "Csak fordítás üzemmódra váltás"
+   },
+   "toggleTranslatePage": {
+      "message": "Fordítás {célnyelvre}"
+   },
+   "toggleTranslatePageOfficialPage": {
+      "message": "Weboldal lefordítása/eredeti szöveg megjelenítése"
+   },
+   "toggleTranslateTheMainPage": {
+      "message": "Főoldal lefordítása /Eredeti szöveg megjelenítése"
+   },
+   "toggleTranslateTheWholePage": {
+      "message": "Teljes oldal lefordítása/eredeti szöveg megjelenítése"
+   },
+   "toggleTranslateToThePageEndImmediately": {
+      "message": "Azonnali fordítás az oldal aljára/az eredeti szöveg megjelenítése"
+   },
+   "toggleTranslationMask": {
+      "message": "Az aktuális oldal lefordított szövegének elmosódása (tanulási mód) bekapcsolása"
+   },
+   "toggleVideoSubtitlePreTranslation": {
+      "message": "Videófelirat váltás a Merev fordítási funkcióval"
+   },
+   "translateInputBox": {
+      "message": "Az aktuális beviteli mező tartalmának lefordítása"
+   },
+   "translateLocalHtmlFile": {
+      "message": "HTML/txt fájl fordítása"
+   },
+   "translateLocalPdfFile": {
+      "message": "Helyi PDF fájl fordítása"
+   },
+   "translateLocalSubtitleFile": {
+      "message": "Helyi feliratfájl fordítása"
+   },
+   "translateMangaMenuId": {
+      "message": "Kép fordítása/kép visszaállítása"
+   },
+   "translateText": {
+      "message": "Fordítás \"{text}\""
+   },
+   "translateWithBing": {
+      "message": "Az aktuális oldal ideiglenes fordítása a Microsoft Translator segítségével"
+   },
+   "translateWithClaude": {
+      "message": "Ideiglenesen használja a Claude-ot az aktuális oldal lefordítására."
+   },
+   "translateWithCustom1": {
+      "message": "Egyedi fordítási szolgáltatások ideiglenes használata az aktuális oldal fordításához(1)"
+   },
+   "translateWithCustom2": {
+      "message": "Egyedi fordítási szolgáltatások ideiglenes használata az aktuális oldal fordításához(2)"
+   },
+   "translateWithCustom3": {
+      "message": "Egyedi fordítási szolgáltatások ideiglenes használata az aktuális oldal fordításához(3)"
+   },
+   "translateWithDeepL": {
+      "message": "Az aktuális oldal ideiglenes fordítása a DeepL címmel."
+   },
+   "translateWithGemini": {
+      "message": "Az aktuális oldal ideiglenes fordítása Gemini segítségével"
+   },
+   "translateWithGoogle": {
+      "message": "Az aktuális oldal ideiglenes fordítása a Google segítségével"
+   },
+   "translateWithOpenAI": {
+      "message": "Ideiglenesen fordítsa le az aktuális oldalt OpenAI-val"
+   },
+   "translateWithTransmart": {
+      "message": "Az aktuális oldal ideiglenes fordítása a Tencent Translator segítségével"
+   }
+}
