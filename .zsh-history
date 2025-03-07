@@ -1,0 +1,916 @@
+vim .zshrc
+vim .zshrc
+source .zshrc
+ls -a
+rm .bash_history .bash_logout .bash_profile
+cat .bashrc
+vim .bashrc
+vim .zshrc
+cat
+vim .zshrc
+source .zshrc
+setxkbmap
+sudo pacman -S setxkbmap
+sudo pacman -S xorg xorg-server
+setxkbmap
+source .zshrc
+sudo pacman -S i3 rofi polybar lightdm lightdm-gtk-greeter
+sudo pacman -S i3 rofi polybar lightdm lightdm-gtk-greeter
+sudo systemctl enable lightdm
+reboot
+fdisk -l
+sudo fdisk -l
+mount /sdb1 /mnt/
+sudo mount /dev/sdb1 /mnt/
+sudo pacman -S light
+cp /mnt/config.i3 .
+ls
+ls -a
+mv config.i3 .config/i3
+cd .config/i3
+ls
+rm config
+mv config.i3 config
+cd ..
+ls
+ls -a
+cp -r /mnt/rofi /mnt/polybar .
+ls
+cd
+vim .zsh
+ls
+ls -a
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+ls
+sudo pacman -S miniconda3
+sudo pacman -S yazi
+sudo pacamn -S zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+sudo pacaman -S zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+sudo pacman -S zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+vim .zshrc
+source .zshrc
+vim .zshrc
+echo $PS1
+.zshrc
+./.zshrc
+sudo ./.zshrc
+ls -l .zsh
+ls -l .zshrc
+chmod 644 .zshrc
+source .zshrc
+poweroff
+sudo pacman -S neofetch
+neofetch
+sudo pacman -S ventoy tlp tlpui
+sudo pacman -S ventoy
+sudo pacman -S ventoy tlp tlpui
+sudo pacman -S syncthing sof-firmware
+sudo pacman -S 7zip alsa-firmware bluez bluez-utils feh htop 
+sudo ln -s /opt/miniconda3/etc/profile.d/conda.sh /etc/profile.d/conda.sh
+conda
+zsh /etc/profile.d/conda.sh
+conda
+cat /etc/profile.d/conda.sh
+sudo vim /etc/profile.d/
+cd /etc/profile.d
+ls
+cd ..
+ls
+ls | grep VIM
+cd profile.d
+ls
+./conda.sh
+sudo ./conda.sh
+ls -l conda.sh
+./conda.sh
+sudo ./conda.sh
+su
+sh ./conda.sh
+conda
+zsh ./conda.sh
+conda
+sudo pacman -S miniconda3
+yay -S miniconda3
+vim /mnt/.zshrc
+ls
+cd 
+vim .zsh
+vim .zshrc
+source .zshrc
+conda
+conda init
+yay -S miniconda3
+ls -a
+vim .bashrc
+vim .zshrc
+conda init
+conda
+ls /usr/bin
+ls /usr/bin|grep conda
+sudo pacman -S clash-verge
+yay -Ss spyder
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zsjrc
+source .zshrc
+vim .zshrc
+fdisk -l
+sudo fdisk -l
+sudo mount /dev/sda1 /mnt
+ls /mnt
+vim /mnt/.zshrc
+vim /mnt/.zshrc
+vim .zshrc
+source .zshrc
+ls 
+ls -a
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+sudo pacman -S wqy-microhei
+alacritty --default-config-path
+alacritty --help
+alacritty --config-file
+ls -a
+ls .config
+ls -a
+yay -S google-chrome
+yay -S google-chrome
+cat /mnt/L35gW6VkBods.yaml
+cat /mnt/pacman_list.txt
+df -h
+swapon
+fdisk -l
+sudo fdisk -l
+source .zshrc
+ls
+ls
+yay -Ss hugo
+conda init
+conda create --name DM
+conda activate Dm
+conda activate DM
+conda init
+conda activate DM
+conda init $$ conda activate DM
+conda init -h
+conda list
+conda activate
+vim /mnt/.zshrc
+vim .zshrc
+vim /mnt/.zshrc
+vim .zshrc
+source .zshrc
+conda_init
+activate atcivate Dm
+activate atcivate DM
+conda activate DM
+ls
+rmdir \$MYVIMDIR
+ls
+conda deactivate 
+conda deactivate
+conda install spyder
+conda activate
+spyder
+conda install spyder
+sudo conda install spyder
+conda activate DM
+conda uninstall spyder
+conda install spyder
+ls /opt/miniconda3
+conda deactivate 
+spyder
+conda deactivate
+ls
+sudo pacman -S wemeet
+sudo pacman -Ss wemeet
+yay -S wemeet
+poweroff
+reboot
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+cd .config
+ls
+mkdir zsh
+cd zsh
+mkdir zinit
+cd zinit
+git clone https://github.com/zdharma-continuum/zinit.git
+ls
+cd zinit
+ls
+pwd
+mv . ./bin/ --mkdir
+mv -r . ./bin --mkdir
+mkdir ./bin
+mv . ./bin
+mv ./* ./bin/
+ls -a
+ls
+cd bin
+ls
+cd ..
+mv -a ./* ./bin
+mv --all ./* ./bin
+mv --help
+ls
+ls -a
+mv ./.* ./bin
+ls
+ls -a
+cd bin
+ls
+light -S 85
+light -S 80
+pwd
+ls
+cd ..
+ls
+cd bin
+pwd
+cd ..
+ls
+rm -rf ./
+rm -rf ./bin
+ls
+ls -a
+mkdir ./bin
+git clone https://github.com/zdharma-continuum/zinit.git
+ls
+ls -a
+ls -a
+cd bin
+ls
+cd ..
+rmdir bin
+mv zinit bin
+ls
+pwd
+cd ..
+ls
+cd zinit
+ls
+cd bin
+pwd
+cd ..
+ls
+rm -rf bin
+ls
+ls -a
+cd ..
+ls
+pwd
+rmdir zinit
+git clone https://github.com/zdharma-continuum/zinit.git
+ls
+pwd
+cd zinit
+pwd
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd zsh
+rm -rf zinit
+ls
+git clone https://github.com/zdharma-continuum/zinit.git
+pwd
+ls
+cd zinit
+ls
+ls
+ls -a
+vim .zshrc
+ls
+ls
+vim .zshrc
+sudo pacman -Sy
+sudo pacman -Sy
+exec zsh
+sudo pacman -Rs zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+sudo pacman -Rs zsh-autosuggestions zsh-completions zsh-syntax-highlighting
+ls
+ls -a
+cat .histfile
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+ls
+clear
+clear
+ls
+ls
+ls
+cd .c
+cd .config
+sudo pacman -S fzf
+sudo pacman -S fzf
+sudo pacman -S fzf
+sudo pacman -S fzf
+vim .zshrc
+ls
+source .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+ls
+ls -a
+cd .config
+cd con
+vim .zshrc
+cd 
+vim .zshrc
+source .zshrc
+ls
+which google-chrome
+ls /usr/bin | grep google
+which alacritty
+poweroff
+ls
+ls -a
+vim .viminfo
+vim .vimrc
+mv .vimrc .vimrc.test
+ls
+ls -a
+yazi
+yazi
+reboot
+sudo pacman -Q | grep tlp
+sudo systemctl enable tlp
+ls
+poweroff
+ls
+ls -a
+ls
+ls
+cd .config/i3
+ls
+vim config
+ls
+ls -a
+vim .vimrc.test
+yay -S xf86-input-libinput
+sudo gpasswd -a $USER input
+xinput list
+xinput list | grep touch
+cd /etc/X11/xorg.conf.d
+ls
+ls -a
+vim 100-libinput.conf
+sudo vim 100-libinput.conf
+xinit
+reboot
+sudo pacman -S nitrogen
+sudo vim /etc/X11/xorg.conf.d/100-libinput.conf
+sudo systemctl restart lightdm.service
+sudo pacman -S picom
+vim ./.config/i3/config
+ls
+vim .config/i3/config
+ls
+mkdir ./Wallpaper
+cd Wallpaper
+ls
+git clone https://github.com/orangci/walls-catppuccin-mocha.git
+ls
+pwd
+cd ..
+cd .config
+ls
+cd polybar
+ls
+vim config.ini
+ls
+cd ..
+ls
+ls ./gtk-2.0
+mkdir picom
+ls
+cd polybar
+cd ..
+cd picom
+touch picom.conf
+vim picom.conf
+ls
+picom &
+killall picom
+picom &
+ls
+vim picom.conf
+killall picom
+picom &
+vim picom.conf
+ls
+cd ..
+ls
+mkdir alacritty
+cd alacritty
+ls
+vim alacritty.toml
+vim alacritty.toml
+killall polybar
+killall polybar
+mpc status
+mpc
+sudo pacman -S mpc
+sudo pacman -S acpi
+ip link
+killall polybar
+mpd
+sudo pacman -S mpd
+killall polybar
+killall polybar
+systemctl enable mpd
+systemctl enable mpd
+systemctl start mpd
+ls /home/
+killall polybar
+killall polybar
+killall polybar
+killall polybar
+killall polybar
+killall polybar
+killall polybar
+killall polybar
+killall polybar
+cd .config/polybar
+ls
+rm -rf ./blocks material s* c* p* d*
+ls
+rm -rf grayblocks hack
+neofetch
+ls
+cd .config/i3
+ls
+vim config
+vim config
+vim config
+ls
+vim config
+vim config
+polybar example
+ls
+$ git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+ls
+cd polybar-themes
+ls
+chmod +x setup.sh
+./setup.sh
+ls
+cd ..
+ls
+cd ..
+ls
+cd polybar
+ls
+cd //
+cd ..
+ls
+cd
+cd .config
+ls
+rm -rf ./polybar.old
+ls
+cd polybar
+ls
+lauch.sh
+zsh ./launch.sh
+zsh ./launch.sh --blocks
+kill al
+zsh ./launch.sh --colorblocks
+ls
+zsh ./launch.sh --colorblocks
+zsh ./launch.sh --cuts
+zsh ./launch.sh --docky
+zsh ./launch.sh --docky
+zsh ./launch.sh --forest
+zsh ./launch.sh --grayblocks
+zsh ./launch.sh --hack
+zsh ./launch.sh --material
+zsh ./launch.sh --panels
+zsh ./launch.sh --pwidgets
+zsh ./launch.sh --shades
+zsh ./launch.sh --shapes
+zsh ./launch.sh --forest
+ls
+ls
+cd 
+cd .config
+ls
+cd i3
+ls
+cd polybar-themes
+ls
+cd wallpapers
+ls
+yazi
+cd ..
+cd ..
+rm -rf polybar-themes
+ls
+vim config
+cd 
+ls
+ls -a
+ls
+cd .nv
+ls
+cd ComputeCache
+ls
+ls -a
+cd ../..
+rm .nv
+rm -rf .nv
+gem install rcm
+sudo pacman -S ruby
+sudo pacman -S rcm
+yay -Ss rcm
+yay -S rcm
+ls
+pwd
+rcm init
+yay -S rcm
+ls /usr/bin | grep rcm
+ls
+rcm
+sudo pacman -S gem
+rcm
+lsrc
+ls
+sudo pacman -Rs rcm
+sudo pacman -Ss stow
+sudo pacman -S stow
+mkdir ./dotfiles
+cd dotfiles
+stow -t $HOME $(ls -d */)
+stow
+cd
+ls
+ls -a
+vim .dmrc
+vim .Xauthority
+sudo pacman -Rs stow
+ls
+rm dotfiles
+rmdir dotfiles
+cd .config
+ls
+vim mimeapps.list
+cd gtk-
+cd gtk-2.0
+ls
+vim gtkfilechooser.ini
+ls
+cd ..
+cp ../.zshrc ./
+ls
+ls -a
+git remote pull https://github.com/Lucky-dog-is-happy/.config.git
+git remote pull https://github.com/Lucky-dog-is-happy/.config.git
+git init
+git branch
+git config --global init.defaultBranch main
+git init
+git branch -m main
+git branch
+git branch list
+git branch list -a
+git remote pull https://github.com/Lucky-dog-is-happy/.config.git
+git remote push https://github.com/Lucky-dog-is-happy/.config.git
+ls
+git add .
+git status
+git remote add origin Lucky-dog-is-happy/.config.git
+git push -u origin main
+git push --all origin
+ls
+git pull Lucky-dog-is-happy/.config.git
+git remote add origin https://github.com/Lucky-dog-is-happy/.config.git
+git pull https://github.com/Lucky-dog-is-happy/.config.git
+ls
+rm 'bonjourr-20.4.2 2025-02-11 11_24_39.json' 
+ls
+git add .
+git commit -m "25-02-26"
+git config --global user.email "1210833823@qq.com"
+git config --global user.name "Lucky-dog-is-hapy"
+git config --global user.name "Lucky-dog-is-happy"
+git commit -m "25-02-26"
+git push -u origin main
+git push -u origin main
+git remote -v
+git remote set-url origin https://github.com/Lucky-dog-is-happy/.config.git
+git push -u origin main
+git push -u origin main
+poweroff
+dd
+dd
+cat .vimrc.test
+cat .vimrc.test
+ls
+ipsci
+ls
+ls
+ls
+ls -a
+cron
+sudo pacman -S corn
+sudo pacman -S cron
+sudo pacman -S cronie
+sudo systemctl enable cronie.service
+crontab -e
+ls
+mv Wallpaper Wallpapers
+ls
+ls -a
+crontab -e
+crontab -l
+sudo systemctl list-timers --all
+sudo systemctl restart cron
+sudo systemctl restart cronie
+ls
+sudo pacman -S alsa-utils pulseaudio
+_pulseaudio --start
+pulseaudio
+ls
+pactl list short sinks
+sudo pactl list short sinks
+alsamixer
+ls
+sudo pacman -Rs alsa-utils pulseaudio
+alsamixer
+amixer
+amixer
+ls
+ls -a
+vim .vimrc
+source .zshrc
+source .vimrc
+ls
+vim .vimrc
+which curl
+ls
+cd .config/
+ls
+mkdir .vim
+rmdir .vim
+mkdir vim
+cd vim 
+ls
+mkdir plugs
+pwd
+cd ..
+cd ..
+vim .vimrc
+ls
+vim .vimrc.test
+vim .vimrc.test
+vim .vimrc.test
+cd .con
+cd .config
+ls
+vim polybar
+ls
+cd polybar
+ls
+ls a-
+ls -a
+cd forest
+ls
+cd ..
+vim launch.sh
+cd ..
+ls
+cd zsh
+ls
+cd zinit
+ls
+cd ..
+ls -a
+cd 
+ls
+ls -a
+vim .p10k.zsh
+vim .vimrc
+ls
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc.test
+ls -a
+cd .vim
+ls
+ls -a
+vim .netrwhist
+ls
+cd ..
+rm -rf .vim
+ls
+ls -a
+cat .vimrc.test
+vim .vimrc
+ls 
+cd .config
+ls
+rmdir .vim
+rmdir vim
+cd vim
+ls
+rmdir plugs
+cd ..
+rmdir vim
+ls
+cd ..
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+ls
+ls -a
+cd .vim
+ls
+ls
+vim .vimrc
+ls
+cd ..
+vim .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+source .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ls
+ls
+vim Wallpapers
+ls
+vim .vimrc
+ls
+poweroff
+ls
+dd
+ls
+ls -a
+cd .config
+ls
+ls
+git add .
+git commit -m "25-02-27"
+git status
+ls
+cd polybar
+ls
+cd forest
+ls
+vim config.ini
+vim bars.ini
+ls
+cd ..
+ls
+cd ..
+ls
+rm LICENSE
+rm README.md
+ls
+git remote add origin git@github.com:Lucky-dog-is-happy/dotfile.git\
+\
+
+git remote add origin git@github.com:Lucky-dog-is-happy/dotfile.git\
+\
+
+git remote -v
+git remote set-url origin git@github.com:Lucky-dog-is-happy/dotfile.git
+git remote -v
+git push -u origin main
+git push -u origin main
+sudo pacman -S ssh
+sudo pacman -Ss ssh
+ssh -v
+sudo pacman -S ssh
+sudo pacman -S open-ssh
+sudo pacman -S openssh
+ssh -v
+ssh -V
+ssh-keygen -t -rsa -b 4096 -C "1210833823@qq.com"
+ssh-keygen -t rsa -b 4096 -C "1210833823@qq.com"
+cat ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub
+ssh -T git@github.com
+ls
+vim zsh
+ls -a
+cp ../.vimrc .
+ls
+ls -a
+git push -u origin main
+git add .
+git commit -m "25-02-27"
+git push -u origin main
+ls -a
+cd ..
+ls
+ls -a
+vim .vimrc
+ls
+vim .vimrc
+vim .vimrc
+ls
+vim .vimrc
+ls
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+vim .vimrc
+ls
+ls
+polybar
+ls
+vim .vimrc.test
+cat .vimrc.test
+ls
+cd .config
+ls -a
+vim README.md
+cd polybar
+ls
+cd forest
+vim bars.ini
+figlet
+sudo pacman -Ss figlet
+sudo pacman -S figlet
+figlet INSTALL Arch
+figlet INSTALL Arch >> ../../README.md
+vim ../../README.md
+ls
+ls
+cd ..
+cd ..
+ls
+vim README.md
+vim ../.vimrc
+vim ../.vimrc.test
+cat ../.vimrc.test
+df -h
+yay -S ollama
+yay -S ollama
+sudo hwclock --systohc
+sudo timedatectl
+figlet Hello
+ls
+ls
+vim .config
+yazi
+poweroff
+sudo vim /etc/lightdm/lightdm-gtk-greeter.conf
+sudo systemctl restart lightdm.service
+ls
+cd Wallpapers
+ls
+cd walls-catppuccin-mocha
+ls
+feh ./yohoho.jpg
+ls
+sudo systemctl enable tlp
+sudo systemctl enable tlp.service
+poweroff

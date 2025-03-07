@@ -1,6 +1,3 @@
-2025/02/28-06:24:16.191 5 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2025/02/28-06:24:16.193 5 Recovering log #16
-2025/02/28-06:24:16.525 5 Reusing old log /home/lucky/.config/google-chrome/Default/Session Storage/000016.log 
-2025/02/28-07:54:34.963 5 Level-0 table #21: started
-2025/02/28-07:54:35.062 5 Level-0 table #21: 21520 bytes OK
-2025/02/28-07:54:35.108 5 Delete type=0 #16
+2025/03/01-07:00:55.156 4 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/03/01-07:00:55.156 4 Recovering log #23
+2025/03/01-07:00:55.200 4 Reusing old log /home/lucky/.config/google-chrome/Default/Session Storage/000023.log 

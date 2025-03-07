@@ -1,18 +1,45 @@
-2025/02/28-06:24:15.940 4 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2025/02/28-06:24:15.949 4 Recovering log #39
-2025/02/28-06:24:16.512 4 Reusing old log /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/000039.log 
-2025/02/28-06:27:29.809 4 Level-0 table #43: started
-2025/02/28-06:27:29.953 4 Level-0 table #43: 44856 bytes OK
-2025/02/28-06:27:30.000 4 Delete type=0 #39
-2025/02/28-06:27:30.001 4 Compacting 4@0 + 1@1 files
-2025/02/28-06:27:30.065 4 Generated table #44@0: 220 keys, 96681 bytes
-2025/02/28-06:27:30.065 4 Compacted 4@0 + 1@1 files => 96681 bytes
-2025/02/28-06:27:30.110 4 compacted to: files[ 0 1 0 0 0 0 0 ]
-2025/02/28-06:27:30.112 4 Delete type=2 #38
-2025/02/28-06:27:30.112 4 Delete type=2 #36
-2025/02/28-06:27:30.112 4 Delete type=2 #34
-2025/02/28-06:27:30.112 4 Delete type=2 #40
-2025/02/28-06:27:30.112 4 Delete type=2 #43
-2025/02/28-07:39:29.049 4 Level-0 table #46: started
-2025/02/28-07:39:29.105 4 Level-0 table #46: 36166 bytes OK
-2025/02/28-07:39:29.157 4 Delete type=0 #42
+2025/03/01-07:00:27.312 4 Reusing MANIFEST /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2025/03/01-07:00:27.315 4 Recovering log #73
+2025/03/01-07:00:27.801 4 Reusing old log /home/lucky/.config/google-chrome/Default/Local Storage/leveldb/000073.log 
+2025/03/01-07:01:08.511 4 Level-0 table #77: started
+2025/03/01-07:01:08.692 4 Level-0 table #77: 22861 bytes OK
+2025/03/01-07:01:08.744 4 Delete type=0 #73
+2025/03/01-07:02:09.643 5 Level-0 table #79: started
+2025/03/01-07:02:09.819 5 Level-0 table #79: 21528 bytes OK
+2025/03/01-07:02:10.007 5 Delete type=0 #76
+2025/03/01-07:02:14.902 4 Level-0 table #81: started
+2025/03/01-07:02:14.957 4 Level-0 table #81: 39601 bytes OK
+2025/03/01-07:02:15.007 4 Delete type=0 #78
+2025/03/01-07:02:15.007 4 Compacting 4@0 + 1@1 files
+2025/03/01-07:02:15.082 4 Generated table #82@0: 289 keys, 447330 bytes
+2025/03/01-07:02:15.082 4 Compacted 4@0 + 1@1 files => 447330 bytes
+2025/03/01-07:02:15.128 4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/01-07:02:15.129 4 Delete type=2 #79
+2025/03/01-07:02:15.129 4 Delete type=2 #77
+2025/03/01-07:02:15.129 4 Delete type=2 #72
+2025/03/01-07:02:15.129 4 Delete type=2 #74
+2025/03/01-07:02:15.130 4 Delete type=2 #81
+2025/03/01-07:03:15.237 4 Level-0 table #84: started
+2025/03/01-07:03:15.344 4 Level-0 table #84: 20866 bytes OK
+2025/03/01-07:03:15.395 4 Delete type=0 #80
+2025/03/01-07:22:31.233 4 Level-0 table #86: started
+2025/03/01-07:22:31.283 4 Level-0 table #86: 20179 bytes OK
+2025/03/01-07:22:31.329 4 Delete type=0 #83
+2025/03/01-07:22:35.022 4 Level-0 table #88: started
+2025/03/01-07:22:35.159 4 Level-0 table #88: 18524 bytes OK
+2025/03/01-07:22:35.250 4 Delete type=0 #85
+2025/03/01-07:23:01.871 5 Level-0 table #90: started
+2025/03/01-07:23:02.120 5 Level-0 table #90: 20014 bytes OK
+2025/03/01-07:23:02.172 5 Delete type=0 #87
+2025/03/01-07:23:02.173 5 Compacting 4@0 + 1@1 files
+2025/03/01-07:23:02.243 5 Generated table #91@0: 290 keys, 446771 bytes
+2025/03/01-07:23:02.244 5 Compacted 4@0 + 1@1 files => 446771 bytes
+2025/03/01-07:23:02.292 5 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/03/01-07:23:02.294 5 Delete type=2 #90
+2025/03/01-07:23:02.294 5 Delete type=2 #84
+2025/03/01-07:23:02.294 5 Delete type=2 #88
+2025/03/01-07:23:02.294 5 Delete type=2 #86
+2025/03/01-07:23:02.294 5 Delete type=2 #82
+2025/03/01-07:23:36.629 4 Level-0 table #93: started
+2025/03/01-07:23:36.928 4 Level-0 table #93: 21075 bytes OK
+2025/03/01-07:23:36.971 4 Delete type=0 #89
