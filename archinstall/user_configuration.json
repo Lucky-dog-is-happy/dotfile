@@ -1,0 +1,121 @@
+{
+    "app_config": {
+        "audio_config": {
+            "audio": "pipewire"
+        },
+        "bluetooth_config": {
+            "enabled": true
+        },
+        "power_management_config": {
+            "power_management": "power-profiles-daemon"
+        },
+        "print_service_config": {
+            "enabled": true
+        }
+    },
+    "archinstall-language": "English",
+    "auth_config": {},
+    "bootloader_config": {
+        "bootloader": "Systemd-boot",
+        "removable": false,
+        "uki": false
+    },
+    "custom_commands": [],
+    "hostname": "LuckyDog",
+    "kernels": [
+        "linux"
+    ],
+    "locale_config": {
+        "kb_layout": "us",
+        "sys_enc": "UTF-8",
+        "sys_lang": "en_US.UTF-8"
+    },
+    "mirror_config": {
+        "custom_repositories": [
+            {
+                "name": "archlinuxcn",
+                "sign_check": "Required",
+                "sign_option": "TrustAll",
+                "url": "https://mirrors.ustc.edu.cn/archlinuxcn/$arch"
+            }
+        ],
+        "custom_servers": [],
+        "mirror_regions": {
+            "China": [
+                "http://mirrors.163.com/archlinux/$repo/os/$arch",
+                "http://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.tuna.tsinghua.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.hust.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.hust.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.zju.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.cqu.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirror.lzu.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.xjtu.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.sjtug.sjtu.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.bfsu.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.nju.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.nju.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.wsyu.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.wsyu.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.aliyun.com/archlinux/$repo/os/$arch",
+                "https://mirrors.aliyun.com/archlinux/$repo/os/$arch",
+                "http://mirrors.shanghaitech.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.shanghaitech.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.jlu.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.jlu.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirror.nyist.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirror.nyist.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.qlu.edu.cn/archlinux/$repo/os/$arch",
+                "http://mirrors.jcut.edu.cn/archlinux/$repo/os/$arch",
+                "https://mirrors.jcut.edu.cn/archlinux/$repo/os/$arch"
+            ]
+        },
+        "optional_repositories": [
+            "multilib"
+        ]
+    },
+    "network_config": {
+        "type": "nm"
+    },
+    "ntp": true,
+    "packages": [
+        "7zip",
+        "base-devel",
+        "btop",
+        "cmake",
+        "fcitx5",
+        "fcitx5-rime",
+        "firefox",
+        "foot",
+        "gcc",
+        "gdb",
+        "git",
+        "glibc",
+        "neovim",
+        "python",
+        "tmux",
+        "v2ray"
+    ],
+    "parallel_downloads": 0,
+    "profile_config": {
+        "gfx_driver": null,
+        "greeter": null,
+        "profile": {
+            "custom_settings": {},
+            "details": [],
+            "main": "Minimal"
+        }
+    },
+    "script": null,
+    "services": [],
+    "swap": {
+        "algorithm": "zstd",
+        "enabled": true
+    },
+    "timezone": "Asia/Shanghai",
+    "version": "3.0.15"
+}
