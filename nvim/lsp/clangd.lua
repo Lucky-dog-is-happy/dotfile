@@ -9,15 +9,20 @@
 -- src: https://github.com/neovim/nvim-lspconfig/blob/master/lsp/clangd.lua
 ---@type vim.lsp.Config
 return {
-	cmd = { "clangd", "--clang-tidy", "--background-index", "--offset-encoding=utf-8" },
+	cmd = { "clangd", "--clang-tidy", "--background-index", "--offset-encoding=utf-8", "--fallback-style=Microsoft" },
 	filetypes = { "c", "cpp", "objc", "objcpp", "cuda" },
 	root_markers = {
 		".clangd",
+        ".background-index",
 		".clang-tidy",
 		".clang-format",
 		"compile_commands.json",
+        "comile_commands-dir=build",
 		"compile_flags.txt",
 		"configure.ac", -- AutoTools
+        "header-insertion=iwyu",
+        "cross-file-rename",
+        "pch-storage=memory",
 		".git",
 	},
 	settings = {

@@ -25,7 +25,16 @@ vim.api.nvim_create_autocmd("LspAttach", {
         keymap.set("n", "<space>rn", lsp.buf.rename, bufopts)
         keymap.set("n", "K", lsp.buf.hover, bufopts)
         keymap.set("n", "<space>f", function()
-            vim.lsp.buf.format({ async = true })
+            vim.lsp.buf.format({ 
+                async = true,
+                formatting_options = {
+                    tabSize = 4,
+                    insertSpaces = true,
+                    trimTrailingWhitespace = true,
+                    insertFinalNewline = true,
+                    trimFinalNewlines = true,
+                }
+            })
         end, bufopts)
     end
 })

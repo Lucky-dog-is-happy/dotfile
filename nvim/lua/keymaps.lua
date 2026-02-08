@@ -11,12 +11,19 @@ vim.keymap.set('n', '<leader>w', ':w<CR>')
 vim.keymap.set('n', '<leader>q', ':q<CR>')
 
 -- Fzf-lua fuzzy finder shortcuts
--- <leader>f: find files
--- <leader>b: find buffers
--- <leader>g: grep in files
-vim.keymap.set('n', '<leader>f', '<cmd>FzfLua files<CR>')
-vim.keymap.set('n', '<leader>b', '<cmd>FzfLua buffers<CR>')
-vim.keymap.set('n', '<leader>g', '<cmd>FzfLua live_grep<CR>')
+-- <leader>lf: find files
+-- <leader>lb: find buffers
+-- <leader>ll: grep in files
+vim.keymap.set('n', '<leader>lf', '<cmd>FzfLua files<CR>')
+vim.keymap.set('n', '<leader>lb', '<cmd>FzfLua buffers<CR>')
+vim.keymap.set('n', '<leader>ll', '<cmd>FzfLua live_grep<CR>')
+
+-- BufferLine toggle buffer shortcuts
+-- <leader><Tab>: Buffer Next
+-- <leader><S-Tab>: Buffer Prev
+vim.keymap.set('n', '<leader><Tab>', '<cmd>BufferLineCycleNext<cr>')
+vim.keymap.set('n', '<leader><S-Tab>', '<cmd>BufferLineCyclePrev<cr>')
+
 
 -- Cursor movement shortcuts
 -- <C-l>: move to end of line in normal mode

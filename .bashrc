@@ -18,16 +18,16 @@ alias t=task
 alias x=tmux
 alias lg=lazygit
 alias hg=hldger
+alias y=yazi
 alias oc='opencode --continue'
 alias ocn='opencode'
-alias cw='sdcv'
+alias sw='sdcv'
 alias ..='echo "cd .."; cd ..'
 
 # environment variable
-export GTK_IM_MODULE=fcitx5
-export QT_IM_MODULE=fcitx5
-export XMODIFIERS=@im=fcitx5
 export PATH="$PATH:/home/lucky/.local/bin"
+export HISTSIZE=10000
+export HISTFILESIZE=100000
 
 set $EDITOR=nvim
 set $BROWSER=google-chrome
@@ -67,4 +67,3 @@ export FZF_DEFAULT_OPTS="
   --pointer '>'
   --separator '─'
 "
-
