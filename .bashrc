@@ -12,7 +12,7 @@ alias ll='lsd -l'
 alias lnc='lsd --color=never'
 alias grep='grep --color=auto'
 alias d='date +"%m-%d %A %T"'
-alias v=vim
+alias v=nvim
 alias nv=nvim
 alias t=task
 alias x=tmux
@@ -67,3 +67,30 @@ export FZF_DEFAULT_OPTS="
   --pointer '>'
   --separator '─'
 "
+
+# mimocode
+export PATH=/home/lucky/.mimocode/bin:$PATH
+
+# >>> ESP-IDF EIM PATH >>>
+# Added by ESP-IDF extension so the EIM CLI can be launched directly.
+case ":$PATH:" in
+  *:"/home/lucky/.espressif/eim":*) ;;
+  *) export PATH="/home/lucky/.espressif/eim:$PATH" ;;
+esac
+# <<< ESP-IDF EIM PATH <<<
+
+# >>> ESP-IDF EIM PATH >>>
+# Added by ESP-IDF extension so the EIM CLI can be launched directly.
+case ":$PATH:" in
+  *:"/usr/sbin":*) ;;
+  *) export PATH="/usr/sbin:$PATH" ;;
+esac
+# <<< ESP-IDF EIM PATH <<<
+export IDF_PATH=/home/lucky/.espressif/v6.0.2/esp-idf
+alias esp_init="source $IDF_PATH/export.sh"
+
+# opencode
+export PATH=/home/lucky/.opencode/bin:$PATH
+
+# kimi-code
+export PATH="/home/lucky/.kimi-code/bin:$PATH"

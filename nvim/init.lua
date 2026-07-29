@@ -41,6 +41,9 @@ vim.o.list = true       -- Show <tab> and trailing spaces.
 -- instead raise a dialog asking if you wish to save the current file(s). See `:h 'confirm'`
 vim.o.confirm = true
 
+vim.cmd('filetype plugin indent on')
+vim.cmd('syntax on')
+
 vim.o.termguicolors = true
 vim.cmd.colorscheme('desert')
 -- KEYMAPS
